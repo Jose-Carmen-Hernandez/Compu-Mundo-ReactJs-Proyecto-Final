@@ -1,0 +1,22 @@
+.carrito {
+  width: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+}
+.carrito img {
+  width: 25px;
+  height: 25px;
+}
+.carrito span {
+  display: flex;
+  justify-content: center;
+  width: 20px;
+  margin-left: 10px;
+  color: #ffff;
+  background-color: #005ebd;
+  border-radius: 50px;
+  padding: 3px;
+  font-size: large;
+  font-weight: 600;
+}

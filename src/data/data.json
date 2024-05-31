@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "nombre": "computadora de escritorio hp",
+    "precio": 12259,
+    "img": "../../assets/Compu2.jpeg",
+    "descripcion": "Desktop HP Pro SFF 280 G9 Informática empresarial esencial Procesador Intel® Core™ i3 de 12.ª generación Windows 11 Pro8 GB de RAM DDR4-3200 MHz (1 x 8 GB)Unidad de estado sólido PCIe® NVMe™ M.2 de 256 GBGráficos Intel® UHD 730",
+    "categoria": "computadoras",
+    "stock": 0
+  },
+  {
+    "id": 2,
+    "nombre": "laptop Dell Inspiron 3520",
+    "precio": 12000,
+    "img": "../../assets/Dell2.jpeg",
+    "descripcion": "Procesador Intel Core i7 1255U (Hasta 4,7 GHz), Memoria de 16GB DDR4, SSD de 512GB, Pantalla de 15.6\" LED, 120Hz, Video Iris Xe Graphics, S.O. Windows 11 Home (64 Bits)",
+    "categoria": "computadoras",
+    "stock": 5
+  },
+  {
+    "id": 3,
+    "nombre": "Audífonos para Gaming HP Pavilion 400, negro/azul",
+    "precio": 800,
+    "img": "../../assets/audifonoshp2.jpeg",
+    "descripcion": "GRAVES PROFUNDOS. AGUDOS NÍTIDOS. SONIDO INCREÍBLE. Auriculares y banda para la cabeza revestidos en cuero sintético suave acolchado para ofrecer comodidad. Micrófono integrado. Control de volumen  en cable. Multi plaforma.",
+    "categoria": "accesorios",
+    "stock": 10
+  },
+  {
+    "id": 4,
+    "nombre": "Bocina Multimedia Edifier R19bt",
+    "precio": 1200,
+    "img": "../../assets/bocinas.jpg",
+    "descripcion": "Lo que tienes que saber de este producto: Tipo de bocina: torre. Con conectividad bluetooth.Potencia de 4W.Cantidad de bocinas: 2. Lugar de colocación: escritorio. Dimensiones: 85mm de ancho, 175mm de alto y 130mm de profundidad.",
+    "categoria": "accesorios",
+    "stock": 3
+  },
+  {
+    "id": 5,
+    "nombre": "Smartphone Motorola Moto G14 Dual SIM 128GB Desbloqueado",
+    "precio": 5000,
+    "img": "../../assets/moto-g14.jpg",
+    "descripcion": "Acabados de primera. Fabricado con materiales como cuero vegano, G14 posee una apariencia espectacular y es cómodo al tacto. Pantalla FHD+ de 6.5 Pulgadas y Dolby Atmos. Tus películas, programas, juegos y videollamadas cobran vida con una claridad increíble con el sonido espacial Moto y Dolby Atmos. Avanzado sistema de cámaras con 50 MP. Captura fotos detalladas de día o de noche, y explora objetos de cerca gracias al lente con Visión Macro. Increíble duración de la batería. Recarga rápido y usa el teléfono durante todo el día gracias a la carga TurboPower y la batería de 5,000 mAh. 128 GB de almacenamiento. Obtén muchísimo espacio para fotos, películas, canciones y aplicaciones. Además, puedes agregar hasta 1 TB adicional con una tarjeta microSD. Procesador Octa-Core. Obtén toda la potencia que necesitas para disfrutar de conexiones rápidas, experiencias fluidas, fotografía avanzada y mucho más.",
+    "categoria": "celulares",
+    "stock": 11
+  },
+  {
+    "id": 6,
+    "nombre": "i-pad pro max",
+    "precio": 15000,
+    "img": "../../assets/ipad.jpeg",
+    "descripcion": "Chip Apple M1 para un rendimiento de siguiente nivel. Cuatro altavoces de audio y cinco micrófonos de calidad de estudio. Brillante visualización Liquid Retina XDR de 12,9 pulgadas con ProMotion, True Tone y P3 de color amplio. Sistema de cámara TrueDepth con cámara ultra ancha con centro de escenario. Cámara ancha de 12 MP, cámara ultra ancha de 10 MP, y escáner LiDAR para una AR inmersiva. 5G para descargas súper rápidas y transmisión de alta calidad. Mantente conectado con Wi-Fi ultrarrápido. Ve más allá con la batería de duración todo el día. Puerto Thunderbolt para conectarse a almacenamiento externo rápido, pantallas y puertos. Face ID para autenticación segura y Apple Pay",
+    "categoria": "celulares",
+    "stock": 10
+  },
+  {
+    "id": 7,
+    "nombre": "LG 27MK430H-B PC Monitor 27\" IPS FHD 75Hz 5ms AMD FreeSync HDMI, D-Sub",
+    "precio": 5999,
+    "img": "../../assets/monitor gamer.jpg",
+    "descripcion": "Voltaje: 100V/240V. Tamaño de la pantalla: 27 \" LCD, antirreflejo.  Tiene una resolución de 1920px-1080px.  Relación de aspecto de 16:9. Panel IPS. Brillo es de 350cd/m². Con conexión 2 HDMI 2.0. Reclinable",
+    "categoria": "monitores",
+    "stock": 9
+  },
+
+  {
+    "id": 8,
+    "nombre": "Laptop HP Pavillion",
+    "precio": 8000,
+    "img": "../../assets/lapHP.jpeg",
+    "descripcion": "Pantalla HD de 14\"Procesador AMD Athlon Silver 3050U. Gráficas AMD Radeon. Sistema Operativo Windows 10 Home. Diseño delgado y ultra portable para mantenerte socialmente conectado y productivo. Con batería de larga duración y pantalla de borde delgado la HP Laptop es tu compañera ideal. Con el poder del procesador AMD de nueva generación y hasta 10 horas de batería, es perfecta para todas tus tareas. Diseñado para ser 100% portable, con bordes súper delgados y tamaño más compacto.",
+    "categoria": "computadoras",
+    "stock": 6
+  },
+  {
+    "id": 9,
+    "nombre": "Apple iPhone 15 Pro Max Super Retina XDR 6.7 Pulgadas",
+    "precio": 23000,
+    "img": "../../assets/iphone 15 pro.jpeg",
+    "descripcion": "EL IPHONE 15 PRO MAX, DUAL SIM FÍSICA, COMPAÑIA TELCEL/AT&T es la elección perfecta para aquellos que buscan un teléfono inteligente premium con un rendimiento excepcional, una cámara de alta calidad y una conectividad confiable. Cuenta con una pantalla LTPO Super Retina XDR OLED 6.7 pulgadas con una resolución de 1290 x 2796 píxeles, una de las calidades de imagen más espectaculares que vas a tener que te dará la mejor calidad de uso para todo lo que desees. El modelo IPHONE 15 PRO MAX cuenta con un procesador Apple A17 Pro / Hexa-core 2.3 GHz que te permitirá conseguir todo lo que te propongas. Podrás disfrutar de los mejores videojuegos; películas y vídeos más espectaculares.Este equipo, en su versión china, está fabricado con aluminio aeroespacial, el cual es ultra resistente a la corrosión. Cuenta con Ceramic Shield, material más aguantador que cualquier otro vidrio en smartphones, de esta manera resistirá el agua, el polvo y cualquier derrame. Este IPHONE 15 PRO MAX, ofrece una experiencia de usuario mejorada con su potente chip, cámara versátil y diseño resistente. ¡Una excelente opción para los amantes de la tecnología! Incluye: 1 Smartphone, 1 cable de carga, 1 manual de usuario.",
+    "categoria": "celulares",
+    "stock": 7
+  },
+  {
+    "id": 10,
+    "nombre": "monitor curvo 32\" SAMSUNG",
+    "precio": 4000,
+    "img": "../../assets/samsung32-curvo.jpg",
+    "descripcion": "NUEVO Samsung 32\" Curvo Monitor LED Oficina Hogar 4ms 75 Hz Windows 10 1920 x 1080",
+    "categoria": "monitores",
+    "stock": 4
+  },
+  {
+    "id": 11,
+    "nombre": "monitor curvo 34\" SAMSUNG",
+    "precio": 5800,
+    "img": "../../assets/monitor-curvo-34.jpg",
+    "descripcion": "Monitor curvo LED de 34\" Samsung S65UA Series S34C654UAN 3440x1440p",
+    "categoria": "monitores",
+    "stock": 12
+  },
+  {
+    "id": 12,
+    "nombre": "mousse óptico",
+    "precio": 580,
+    "img": "../../assets/gaming-mousse.jpg",
+    "descripcion": "HXSJ S200 USB con cable 1600 DPI Ratón óptico para juegos 4 botones",
+    "categoria": "accesorios",
+    "stock": 5
+  }
+]

@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-image: url(./headerImg/globo.jpg);
+  background-position: left;
+  padding: 1rem;
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: cover;
+}
+.header h1 {
+  color: #fff;
+  font-size: 3rem;
+}
+.header img {
+  width: 150px;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #005ebd;
+  border-width: 3px;
+  margin-left: 50px;
+}
+.header h2 {
+  background-color: #005ebd;
+  font-family: sans-serif;
+  font-weight: 500;
+  color: #fff;
+  border-radius: 25px;
+  padding: 10px;
+}

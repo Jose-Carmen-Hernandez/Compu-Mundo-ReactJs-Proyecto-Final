@@ -1,0 +1,9 @@
+.root {
+  width: 100%;
+  height: auto;
+  background-image: url("./assets/matrix-2502951_1280.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}

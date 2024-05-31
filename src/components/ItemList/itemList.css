@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.item-list-title {
+  font-family: "Caudex", serif;
+  color: #6ce81e;
+  display: flex;
+  justify-content: center;
+}
+.item-list-title span {
+  background-color: #000;
+  padding: 10px;
+}
+.item-list {
+  font-family: "DM Sans", sans-serif;
+  font-size: large;
+  font-weight: 400;
+  color: #fff;
+  /* esta propiedad causaba un scroll horizontal
+  margin: 1rem; 
+  */
+  padding: 1rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
