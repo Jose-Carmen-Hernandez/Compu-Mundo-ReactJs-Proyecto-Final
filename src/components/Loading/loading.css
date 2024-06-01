@@ -17,10 +17,6 @@
   align-items: center;
   font-size: x-large;
   font-weight: bolder;
-  border-style: double;
-  border-width: 10px;
-  border-color: blue;
-  border-radius: 25px;
 }
 
 .span i {
