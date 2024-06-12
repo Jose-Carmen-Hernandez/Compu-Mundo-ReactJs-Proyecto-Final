@@ -6,9 +6,8 @@ const Item = ({ item }) => {
     <div className="item">
       <div className="item-inf">
         <h3 className="titulo-h3">{item.nombre}</h3>
-        <picture>
-          <img src={item.img} alt={item.nombre} />
-        </picture>
+
+        <img src={item.img} alt={item.nombre} />
 
         <p>
           {" "}
